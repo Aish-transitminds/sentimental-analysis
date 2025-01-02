@@ -1,5 +1,5 @@
 # sentimental-analysis
-# Sentiment Analysis Web Application
+
 
 This project is a Flask-based web application that performs sentiment analysis on text input. It leverages pre-trained models from Hugging Face to classify text as positive, negative, or neutral. The application can process inputs directly from the user, extract content from URLs, or handle uploaded media files.
 
