@@ -68,6 +68,3 @@ This project is a Flask-based web application that performs sentiment analysis o
 - [Hugging Face](https://huggingface.co) for their transformer models.
 - [Goose3](https://github.com/goose3/goose3) for web content extraction.
 
-## License
-This project is licensed under the MIT License.
-
